@@ -52,9 +52,3 @@ assets/logos/
 Update section images:
 
 assets/images/
-
-## Notes
-
-- Avoid storing backup files (`originals/`, iterative exports)
-- Delete unused assets regularly
-- Keep only files referenced by HTML pages
